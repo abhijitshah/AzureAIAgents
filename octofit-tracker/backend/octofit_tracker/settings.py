@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-ss^s)tc1y*$qqz&3w=#1*d(b=-k+g)gqc32kdhett*)q8nbegi
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'laughing-fiesta-qv7xp4jqrwjcr9-8000.app.github.dev']
 
 
 # Application definition
